@@ -20,7 +20,8 @@ App that uses the Google Maps API to generate 2 randomly located markers for a u
   - setup Typescript to show errors better, for e.g. adding Class X implements Interface Y 
 
 ## To run app locally
-- git clone project
+- git clone https://github.com/jamesphongduong/googlemaps_typescript.git
+- cd into project folder
 - install node (if not installed)
-- sudo npm -i -g parcel-bundler 
-- cd into project folder and run parcel index.html
+- sudo npm -i -g parcel-bundler & npm i
+- run parcel index.html
